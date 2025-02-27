@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <!-- Orange background -->
+  <rect width="192" height="192" fill="#FF6B00"/>
+  <!-- White equipment silhouette, scaled and centered -->
+  <g transform="translate(36,56) scale(1.2)">
+    <path d="M25 60 L35 60 L40 55 L60 55 L65 60 L75 60 L80 55 L80 45 C80 45 75 40 65 40 L60 40 L55 35 L45 35 L40 40 L35 40 C25 40 20 45 20 45 L20 55 L25 60" fill="white"/>
+    <!-- Antenna signal -->
+    <path d="M45 30 L55 30 M42 25 L58 25 M40 20 L60 20" stroke="white" stroke-width="3" fill="none"/>
+  </g>
+</svg>
